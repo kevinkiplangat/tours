@@ -1,0 +1,8 @@
+body{
+    background: lightblue;
+}
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
